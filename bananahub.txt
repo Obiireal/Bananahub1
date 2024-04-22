@@ -1540,7 +1540,7 @@ end
 --Create Tabs
 Tabs.home:AddButton({
         Title = "Owner",
-        Description = "DuydepZaiiCuto!",
+        Description = "chinhdepzai!",
         Callback = function()
             setclipboard("")
         end
@@ -1548,25 +1548,25 @@ Tabs.home:AddButton({
     
 Tabs.home:AddButton({
         Title = "Version",
-        Description = "Beta Hub 5⁵",
+        Description = "hub 1",
         Callback = function()
             setclipboard("")
         end
     })
     
 Tabs.home:AddButton({
-        Title = "Youtube",
-        Description = "Đăng Ký Kênh YouTube",
+        Title = "discord",
+        Description = "join discord",
         Callback = function()
-            setclipboard("https://www.youtube.com/@HIRU_HUB")
+            setclipboard("https://discord.com/invite/825epWsX")
         end
     })
     
 Tabs.home:AddButton({
-        Title = "Zalo Chat",
-        Description = "Hãy Tham Gia Zalo Thông Báo Update!",
+        Title = "cày thuê mua acc",
+        Description = "mua acc dms t cày thuê cx thế!",
         Callback = function()
-            setclipboard("https://zalo.me/g/hudugs462")
+            setclipboard("https://discord.com/invite/4eS5RCrr")
         end
     })
     
